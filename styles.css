@@ -16,6 +16,10 @@
   box-shadow: 0px 8px 19px 0px rgba(158, 139, 158, 1);
 }
 
+a{
+    text-decoration: none;
+}
+
 nav .right-nav {
   display: flex;
 }

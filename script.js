@@ -7,7 +7,7 @@ var text = document.getElementById("text");
 
 btn.addEventListener("click", function(){
     let randomNumber = parseInt(Math.random()*colors.length);
-    console.log("Hey");
+    // console.log("Hey");
     bg.style.background = colors[randomNumber];
     // console.log(colors[randomNumber]);
     // console.log(randomNumber);
